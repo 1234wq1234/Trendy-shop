@@ -2,7 +2,7 @@
 
 Modern full-stack e-commerce application built with Next.js, Node.js, Prisma and PostgreSQL.
 
----
+
 
 # ✨ Features
 
@@ -58,7 +58,7 @@ Modern full-stack e-commerce application built with Next.js, Node.js, Prisma and
   └── config
 ```
 
----
+
 
 # 🚀 Installation
 
@@ -291,8 +291,5 @@ Example:
 
 This project is licensed under the MIT License.
 
----
 
-# 👨‍💻 Developer
 
-Developed by Ipek Arlı.
